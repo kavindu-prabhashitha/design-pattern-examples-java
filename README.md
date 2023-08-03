@@ -3,4 +3,4 @@ Design Patterns with real life examples
 
 Get a clear idea of design patterns with examples
 
-![Alt text]([https://cdn.path.to/some/image.jpg](https://drive.google.com/file/d/1RVSMbZBEMqLsN27VxRKUEKr6GQeBUz7U/view?usp=drive_link)https://drive.google.com/file/d/1RVSMbZBEMqLsN27VxRKUEKr6GQeBUz7U/view?usp=drive_link "This is some image...")
+![Alt text](https://drive.google.com/file/d/1RVSMbZBEMqLsN27VxRKUEKr6GQeBUz7U/view?usp=drive_link "This is some image...")
